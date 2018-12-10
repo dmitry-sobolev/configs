@@ -95,3 +95,5 @@ source $ZSH/oh-my-zsh.sh
 
 export PIPENV_DEFAULT_PYTHON_VERSION=3.6
 export PIPENV_VENV_IN_PROJECT=1
+
+alias mpv2="gnome-session-inhibit mpv2"
